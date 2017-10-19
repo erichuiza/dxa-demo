@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- The Tridion Linking configuration specifies all configuration values
+ to enable the linking functionality.                                   -->
+<Configuration Version="7.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="schemas/cd_link_conf.xsd">
+  <!-- The Publications element is a container for separate Publication elements. -->
+  <Publications>
+    <!-- The publication element allows you to specify Publication specific settings.
+               The Id indicates the id of the publication. This should be a number. -->
+    <!--<Publication Id="5">-->
+      <!---->
+      <!--<Host Domain="t2013sp1.workgroup" Port="8080" Path="" />-->
+      <!---->
+    <!--</Publication>-->
+  </Publications>
+  <!--
+     Specifies the location of the license file.
+     -->
+  <!--
+     <License Location="c:/Tridion/config/cd_licenses.xml"/>
+     -->
+</Configuration>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/caas/caas.iml" filepath="$PROJECT_DIR$/caas/caas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dxa-poc.iml" filepath="$PROJECT_DIR$/dxa-poc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dxaweb/dxaweb.iml" filepath="$PROJECT_DIR$/dxaweb/dxaweb.iml" />
+    </modules>
+  </component>
+</project>

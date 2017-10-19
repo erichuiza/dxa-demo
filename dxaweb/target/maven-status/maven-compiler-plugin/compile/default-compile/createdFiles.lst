@@ -1,0 +1,4 @@
+com\alliancedata\controller\AdminController.class
+com\alliancedata\WebAppInitializer.class
+com\alliancedata\service\AdminService.class
+com\alliancedata\SpringInitializer.class

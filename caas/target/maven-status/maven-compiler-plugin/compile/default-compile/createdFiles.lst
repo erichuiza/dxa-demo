@@ -1,0 +1,10 @@
+com\alliancedata\CaaSInitializer$CaaSViewInitializer.class
+com\alliancedata\model\AbstractModel.class
+com\alliancedata\model\Image.class
+com\alliancedata\model\Promo.class
+com\alliancedata\model\Page.class
+com\alliancedata\model\entity\POCImage.class
+com\alliancedata\CaaSInitializer.class
+com\alliancedata\model\entity\POCPage.class
+com\alliancedata\model\entity\POCPromo.class
+com\alliancedata\resources\ContentPageResource.class
